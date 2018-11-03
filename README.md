@@ -1,5 +1,3 @@
-# OKR_18_19
-Objectives &amp; Key Results 
 # fluxday
 
 fluxday is a task & productivity management application ideal for fast growing startups and small companies. fluxday was developed by Foradian starting in 2014 and was a critical part of the company’s [hyper growth and success](http://www.fedena.com/history). fluxday was opensourced by [Foradian](http://foradian.com) in May 2016 to help more startups use the power of a no-nonsense productivity tracking tool.
